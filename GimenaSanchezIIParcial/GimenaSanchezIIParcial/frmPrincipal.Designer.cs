@@ -36,7 +36,7 @@
             // 
             // btnIngresarCanciones
             // 
-            this.btnIngresarCanciones.Location = new System.Drawing.Point(32, 87);
+            this.btnIngresarCanciones.Location = new System.Drawing.Point(32, 23);
             this.btnIngresarCanciones.Name = "btnIngresarCanciones";
             this.btnIngresarCanciones.Size = new System.Drawing.Size(205, 23);
             this.btnIngresarCanciones.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             // btnEliminarcanciones
             // 
-            this.btnEliminarcanciones.Location = new System.Drawing.Point(32, 116);
+            this.btnEliminarcanciones.Location = new System.Drawing.Point(32, 52);
             this.btnEliminarcanciones.Name = "btnEliminarcanciones";
             this.btnEliminarcanciones.Size = new System.Drawing.Size(205, 23);
             this.btnEliminarcanciones.TabIndex = 1;
@@ -56,7 +56,7 @@
             // 
             // btnReporteCanciones
             // 
-            this.btnReporteCanciones.Location = new System.Drawing.Point(32, 145);
+            this.btnReporteCanciones.Location = new System.Drawing.Point(32, 81);
             this.btnReporteCanciones.Name = "btnReporteCanciones";
             this.btnReporteCanciones.Size = new System.Drawing.Size(205, 23);
             this.btnReporteCanciones.TabIndex = 2;
@@ -66,7 +66,7 @@
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(32, 207);
+            this.btnSalir.Location = new System.Drawing.Point(32, 170);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(205, 23);
             this.btnSalir.TabIndex = 3;
@@ -78,7 +78,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 257);
+            this.ClientSize = new System.Drawing.Size(284, 198);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnReporteCanciones);
             this.Controls.Add(this.btnEliminarcanciones);

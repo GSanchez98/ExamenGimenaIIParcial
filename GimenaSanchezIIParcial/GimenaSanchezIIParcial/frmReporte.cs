@@ -22,7 +22,7 @@ namespace GimenaSanchezIIParcial
 
         private void frmReporte_Load(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"server = (local)\SQLEXPRESS01;
+            /*SqlConnection conn = new SqlConnection(@"server = (local)\SQLEXPRESS01;
                                  integrated security = true; database = BulletProofRecords;");
 
             // Creamos el query de selección de la tabla Products
@@ -43,7 +43,7 @@ namespace GimenaSanchezIIParcial
                 // llenamos el DataGeid
                 while (rdr.Read())
                 {
-                    dataGridView1.RowsAdded[0];
+                    dataGridView1.RowsAdded;
 
                 }
             }
@@ -57,7 +57,7 @@ namespace GimenaSanchezIIParcial
             {
                 // Cerramos la conexión.
                 conn.Close();
-            }
+            }*/
         }
     }
 }
